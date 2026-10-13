@@ -261,15 +261,19 @@ Deployment
 ## 📊 GitHub Statistics
 
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Stats"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Repository"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Commit"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoubnaHamdaoui&theme=github_dark" alt="GitHub Stats" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Repository" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Commit" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=LoubnaHamdaoui&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
