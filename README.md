@@ -1,12 +1,10 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Loubna Hamdaoui
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
 
-### Data Analyst | AI & Machine Learning | Full-Stack Developer
+# 👋 I'm Loubna HAMDAOUI
 
-<p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/>
-</p>
+### `Data Analyst` · `AI & Machine Learning` · `Full-Stack Developer`
 
 <p>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Developer at work"/>
