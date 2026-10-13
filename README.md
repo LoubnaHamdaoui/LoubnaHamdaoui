@@ -1,21 +1,18 @@
-
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Loubna Hamdaoui
 
-### `Data Analyst | AI & Machine Learning | Full-Stack Developer`
+### Data Analyst | AI & Machine Learning | Full-Stack Developer
 
 <p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true"
-       width="55%" alt="Hello Coders"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/>
 </p>
 
 <p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
-       width="35%" alt="Developer at work"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Developer at work"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=LoubnaHamdaoui&style=flat&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,12 +22,12 @@
 
 🎓 Recent graduate in **Data Analysis and Decision Support Information Systems**, passionate about Data Analytics, Artificial Intelligence, Machine Learning, and Software Development.
 
-- 📊 Data Analysis & Visualization
-- 🤖 Artificial Intelligence, Machine Learning & Deep Learning
+- 📊 Data Analysis and Visualization
+- 🤖 Artificial Intelligence, Machine Learning and Deep Learning
 - 🐍 Python Programming
 - 💻 Full-Stack Development
-- 🗄️ SQL & Database Management
-- 🚀 Building technical skills and developing practical projects
+- 🗄️ SQL and Database Management
+- 🚀 Building practical projects and developing technical skills
 
 🌱 Currently learning **Data Analysis, Machine Learning and AI**.
 
@@ -40,199 +37,175 @@
 
 ### 🐍 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Data Analysis & Visualization
+### 📊 Data Analysis and Visualization
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence and Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-412991?style=flat)
-![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-6C63FF?style=flat)
-![Data Annotation](https://img.shields.io/badge/Data%20Annotation-00897B?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-6C63FF?style=for-the-badge)
+![Data Annotation](https://img.shields.io/badge/Data_Annotation-00897B?style=for-the-badge)
 
 ### 🌐 Full-Stack Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools and Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🤖 AI & Machine Learning Roadmap
+---
+
+## 🤖 AI and Machine Learning Roadmap
 
 <div align="center">
 
-### From Python Fundamentals to Intelligent AI Applications
-
-*My learning path through data processing, machine learning, deep learning, and modern AI.*
+### From Python Fundamentals to AI Applications
 
 </div>
 
 ```mermaid
-flowchart TB
-    subgraph F["01 · FOUNDATIONS"]
-        direction LR
-        A["🐍 Python"] --> B["🔢 NumPy & Pandas"]
-        B --> C["🧹 Data Preprocessing"]
-    end
+flowchart TD
+    A["Python"] --> B["NumPy and Pandas"]
+    B --> C["Data Preprocessing"]
+    C --> D["Machine Learning"]
+    D --> E["Classification and Regression"]
+    E --> F["Model Evaluation"]
+    F --> G["Deep Learning"]
+    G --> H["Natural Language Processing"]
+    H --> I["LLMs and AI Applications"]
 
-    subgraph M["02 · MACHINE LEARNING"]
-        direction LR
-        D["🤖 Machine Learning"] --> E["📈 Classification & Regression"]
-        E --> G["🎯 Model Evaluation"]
-    end
-
-    subgraph AIG["03 · ADVANCED AI"]
-        direction LR
-        H["🧠 Deep Learning"] --> I["💬 Natural Language Processing"]
-        I --> J["✨ LLMs & AI Applications"]
-    end
-
-    C --> D
-    G --> H
-
-    classDef foundation fill:#DCEBFF,stroke:#4785D1,color:#17365D,stroke-width:2px
-    classDef machine fill:#E4F7E9,stroke:#36A269,color:#14532D,stroke-width:2px
-    classDef advanced fill:#F0E5FF,stroke:#9362D9,color:#4C1D95,stroke-width:2px
-
-    class A,B,C foundation
-    class D,E,G machine
-    class H,I,J advanced
-
-    style F fill:#F5F9FF,stroke:#4785D1,stroke-width:2px
-    style M fill:#F3FCF5,stroke:#36A269,stroke-width:2px
-    style AIG fill:#FAF5FF,stroke:#9362D9,stroke-width:2px
-
-    linkStyle default stroke:#8795A8,stroke-width:2px
-
+    style A fill:#dbeafe,stroke:#2563eb,color:#111827
+    style B fill:#dbeafe,stroke:#2563eb,color:#111827
+    style C fill:#dbeafe,stroke:#2563eb,color:#111827
+    style D fill:#dcfce7,stroke:#16a34a,color:#111827
+    style E fill:#dcfce7,stroke:#16a34a,color:#111827
+    style F fill:#dcfce7,stroke:#16a34a,color:#111827
+    style G fill:#f3e8ff,stroke:#9333ea,color:#111827
+    style H fill:#f3e8ff,stroke:#9333ea,color:#111827
+    style I fill:#f3e8ff,stroke:#9333ea,color:#111827
+```
 
 ### 🧠 AI Skills
 
-- Machine Learning fundamentals
-- Classification & Regression
+- Machine Learning Fundamentals
+- Classification and Regression
 - Model Evaluation
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis
 - Deep Learning Fundamentals
-- Natural Language Processing (NLP)
-- LLM & Prompt Evaluation
+- Natural Language Processing
+- LLM and Prompt Evaluation
 - AI Data Annotation
 
 ---
 
 ## 📊 Data Analysis Roadmap
 
-```text
-Python
-  |
-  v
-NumPy
-  |
-  v
-Pandas
-  |
-  v
-Data Visualization
-  |
-  v
-SQL
-  |
-  v
-Statistics
-  |
-  v
-EDA
-  |
-  v
-Excel
-  |
-  v
-Power BI
-  |
-  v
-PostgreSQL
-  |
-  v
-Portfolio Projects
+<div align="center">
+
+### From Raw Data to Actionable Insights
+
+</div>
+
+```mermaid
+flowchart TD
+    A["Python"] --> B["NumPy"]
+    B --> C["Pandas"]
+    C --> D["Data Cleaning"]
+    D --> E["Exploratory Data Analysis"]
+    E --> F["Statistics"]
+    F --> G["Data Visualization"]
+    G --> H["SQL and Databases"]
+    H --> I["Excel and Power BI"]
+    I --> J["Portfolio Projects"]
+
+    style A fill:#dbeafe,stroke:#2563eb,color:#111827
+    style B fill:#dbeafe,stroke:#2563eb,color:#111827
+    style C fill:#dbeafe,stroke:#2563eb,color:#111827
+    style D fill:#dcfce7,stroke:#16a34a,color:#111827
+    style E fill:#dcfce7,stroke:#16a34a,color:#111827
+    style F fill:#fef3c7,stroke:#d97706,color:#111827
+    style G fill:#fef3c7,stroke:#d97706,color:#111827
+    style H fill:#f3e8ff,stroke:#9333ea,color:#111827
+    style I fill:#f3e8ff,stroke:#9333ea,color:#111827
+    style J fill:#fce7f3,stroke:#db2777,color:#111827
 ```
 
 ### 📈 Data Skills
 
-- Data Cleaning & Transformation
+- Data Cleaning and Transformation
 - Data Analysis with Pandas
 - Numerical Computing with NumPy
-- Data Visualization with Matplotlib & Seaborn
-- SQL Queries & Database Management
+- Data Visualization with Matplotlib and Seaborn
+- SQL Queries and Database Management
 - Statistics Fundamentals
 - Exploratory Data Analysis
-- Excel & Power BI
-- Data Reporting & Insights
+- Excel and Power BI
+- Reporting and Business Insights
 
 ---
 
 ## 💻 Full-Stack Development Roadmap
 
-```text
-HTML
-  |
-  v
-CSS
-  |
-  v
-JavaScript
-  |
-  v
-React
-  |
-  v
-FastAPI
-  |
-  v
-PostgreSQL
-  |
-  v
-REST API
-  |
-  v
-Git & GitHub
-  |
-  v
-Docker
-  |
-  v
-Deployment
+<div align="center">
+
+### From Web Fundamentals to Application Deployment
+
+</div>
+
+```mermaid
+flowchart TD
+    A["HTML"] --> B["CSS"]
+    B --> C["JavaScript"]
+    C --> D["React"]
+    D --> E["FastAPI"]
+    E --> F["REST API"]
+    F --> G["PostgreSQL"]
+    G --> H["Git and GitHub"]
+    H --> I["Docker"]
+    I --> J["Deployment"]
+
+    style A fill:#dbeafe,stroke:#2563eb,color:#111827
+    style B fill:#dbeafe,stroke:#2563eb,color:#111827
+    style C fill:#fef3c7,stroke:#d97706,color:#111827
+    style D fill:#dbeafe,stroke:#2563eb,color:#111827
+    style E fill:#dcfce7,stroke:#16a34a,color:#111827
+    style F fill:#dcfce7,stroke:#16a34a,color:#111827
+    style G fill:#f3e8ff,stroke:#9333ea,color:#111827
+    style H fill:#fce7f3,stroke:#db2777,color:#111827
+    style I fill:#dbeafe,stroke:#2563eb,color:#111827
+    style J fill:#dcfce7,stroke:#16a34a,color:#111827
 ```
 
 ### 🌐 Development Skills
@@ -244,8 +217,8 @@ Deployment
 - Backend Development with FastAPI
 - REST API Development
 - PostgreSQL Database Integration
-- Version Control with Git & GitHub
-- Docker & Application Deployment
+- Version Control with Git and GitHub
+- Docker and Application Deployment
 
 ---
 
@@ -263,11 +236,11 @@ Deployment
 ## 📚 Currently Learning
 
 - 🐍 Python for Data Analysis
-- 📊 Pandas, NumPy & Data Visualization
-- 🤖 Machine Learning & AI
-- 🗄️ SQL & Database Management
+- 📊 Pandas, NumPy and Data Visualization
+- 🤖 Machine Learning and AI
+- 🗄️ SQL and Database Management
 - 💻 Full-Stack Development
-- 🚀 Building a professional portfolio
+- 🚀 Building a Professional Portfolio
 
 ---
 
@@ -275,19 +248,19 @@ Deployment
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoubnaHamdaoui&theme=github_dark" alt="GitHub Stats" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoubnaHamdaoui&theme=github_dark" alt="GitHub Stats"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Repository" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Repository"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Commit" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoubnaHamdaoui&theme=github_dark" alt="Top Languages by Commit"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=LoubnaHamdaoui&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=LoubnaHamdaoui&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-
+---
 
 ## 🎯 My Goal
 
@@ -299,12 +272,10 @@ I'm continuously learning, improving my skills, and working toward becoming a st
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+### 🚀 Keep Learning | Keep Building | Keep Growing
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png"
-     width="8%" alt="Keep coding"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="8%" alt="Keep coding"/>
 
 **Thanks for visiting my profile! 💜**
 
 </div>
-```
