@@ -260,7 +260,6 @@ Deployment
 
 ## 📊 GitHub Statistics
 
-
 <div align="center">
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LoubnaHamdaoui&theme=github_dark" alt="GitHub Stats" />
