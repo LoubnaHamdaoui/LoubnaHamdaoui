@@ -260,25 +260,20 @@ Deployment
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-     alt="GitHub Statistics"/>
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-     alt="Most Used Languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Repository"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Commit"/>
 
 <br/><br/>
 
-<img width="65%"
-     src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-     alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
----
+
 
 ## 🎯 My Goal
 
