@@ -90,44 +90,57 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
 ## 🤖 AI & Machine Learning Roadmap
 
-```text
-Artificial Intelligence
-        |
-        v
-     Python
-        |
-        v
-  NumPy & Pandas
-        |
-        v
- Data Preprocessing
-        |
-        v
-  Machine Learning
-        |
-        v
- Classification & Regression
-        |
-        v
-   Model Evaluation
-        |
-        v
-   Deep Learning
-        |
-        v
-       NLP
-        |
-        v
-  LLMs & AI Applications
-```
+<div align="center">
+
+### From Python Fundamentals to Intelligent AI Applications
+
+*My learning path through data processing, machine learning, deep learning, and modern AI.*
+
+</div>
+
+```mermaid
+flowchart TB
+    subgraph F["01 · FOUNDATIONS"]
+        direction LR
+        A["🐍 Python"] --> B["🔢 NumPy & Pandas"]
+        B --> C["🧹 Data Preprocessing"]
+    end
+
+    subgraph M["02 · MACHINE LEARNING"]
+        direction LR
+        D["🤖 Machine Learning"] --> E["📈 Classification & Regression"]
+        E --> G["🎯 Model Evaluation"]
+    end
+
+    subgraph AIG["03 · ADVANCED AI"]
+        direction LR
+        H["🧠 Deep Learning"] --> I["💬 Natural Language Processing"]
+        I --> J["✨ LLMs & AI Applications"]
+    end
+
+    C --> D
+    G --> H
+
+    classDef foundation fill:#DCEBFF,stroke:#4785D1,color:#17365D,stroke-width:2px
+    classDef machine fill:#E4F7E9,stroke:#36A269,color:#14532D,stroke-width:2px
+    classDef advanced fill:#F0E5FF,stroke:#9362D9,color:#4C1D95,stroke-width:2px
+
+    class A,B,C foundation
+    class D,E,G machine
+    class H,I,J advanced
+
+    style F fill:#F5F9FF,stroke:#4785D1,stroke-width:2px
+    style M fill:#F3FCF5,stroke:#36A269,stroke-width:2px
+    style AIG fill:#FAF5FF,stroke:#9362D9,stroke-width:2px
+
+    linkStyle default stroke:#8795A8,stroke-width:2px
+
 
 ### 🧠 AI Skills
 
-- Machine Learning
+- Machine Learning fundamentals
 - Classification & Regression
 - Model Evaluation
 - Data Cleaning & Preprocessing
