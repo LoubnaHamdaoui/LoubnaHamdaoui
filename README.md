@@ -2,19 +2,11 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
 
-# 👋 I'm Loubna HAMDAOUI
+# 👋 Hi, I'm Loubna Hamdaoui
 
-### `Data Analyst` · `AI & Machine Learning` · `Full-Stack Developer`
-
-<p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" alt="Developer at work"/>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=LoubnaHamdaoui&style=flat&color=blueviolet&label=PROFILE+VIEWS)
+### `Data Analyst | AI & Machine Learning | Full-Stack Developer`
 
 </div>
-
----
 
 ## 👩‍💻 About Me
 
